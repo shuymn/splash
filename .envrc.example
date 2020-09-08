@@ -1,0 +1,4 @@
+export AWS_PROFILE=default
+export KMS_KEY_ID=
+export STS_ASSUME_ROLE_ARN=
+export RUST_ENV=development

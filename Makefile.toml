@@ -1,0 +1,3 @@
+[tasks.encrypt]
+description = "Encrypt twitter credentials"
+script = { file = "./script/encrypt.sh" }
